@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Cıblak</h1>
+<h1 align="center">Hi , I'm Ali Cıblak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
