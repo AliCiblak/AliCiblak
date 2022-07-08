@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Cıblak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **ASP.NET**
+- 🔭 I’m currently working on  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 
-- 🌱 I’m currently learning **Angular,React,Mongodb**
+- 🌱 I’m currently learning <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ali-c%C4%B1blak-485016144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ali-cıblak-485016144" height="30" width="40" /></a>
 
