@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Ali Cıblak**
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning ASP.NET, Javascript, Mongodb and Angular
-- 📫 How to reach me [LinkedIn] (https://www.linkedin.com/in/ali-c%C4%B1blak-485016144/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ali-c%C4%B1blak-485016144/)
 
 
 
